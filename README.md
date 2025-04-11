@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @prajwalraaj
-- 👀 CopyNinja,editing and improvising code...
-- 🌱 I’m currently learning hacking and pentesting...
-- 💞️ I’m looking to collaborate on web developments...
-- 📫 How to reach me @ prajwalp220@gmail.com...
+# 👋 Hi, I'm Prajwal P
 
-<!---
-prajwalraaj/prajwalraaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 System Engineer | 🚀 Automation Enthusiast | ☁️ Azure Explorer
+
+- 🔧 3+ years of experience in Enterprise Data Warehousing & Automation
+- 📊 Skilled in Ab Initio, Teradata, SQL, Python, and Azure
+- 🤖 Built automation scripts for job failures, disk cleanup, reporting
+- 📦 Currently working on building a high-value project & certification path
+
+## 🔍 Interests
+Cybersecurity • Automation • Cloud Computing • Data Engineering
+
+## 🚧 Projects (see pinned below 👇)
+- Auto Disk Cleanup Script (Bash/Python)
+- Space alerts Script
+- 
+- Report Automation Tool
+- SQL Data Extractor (MS SQL + Shell Script)
+
+## 🌱 Currently Learning
+- Microsoft Azure (AZ-104)
+- Advanced Python Scripting for Infra Management
