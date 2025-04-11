@@ -14,6 +14,7 @@ Cybersecurity • Automation • Cloud Computing • Data Engineering
 - Unix Disk Space Usage Report Script
 - Auto Disk Cleanup Script (unix)
 - Single page shopping wesite
+- Automobile Price Prediction & Data Analysis
 - Report Automation Tool
 - SQL Data Extractor (MS SQL + Shell Script)
 
