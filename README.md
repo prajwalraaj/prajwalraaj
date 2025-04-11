@@ -1,20 +1,28 @@
+
 # 👋 Hi there! I'm Prajwal Puttaraju
 
 💻 Data Engineer | 🔁 Automation Specialist | ☁️ Azure Practitioner | 🤖 AI Enthusiast  
 📍 Based in Mysore, India | 🧠 Always learning | 🚀 Building smart solutions for real-world problems
 
 ---
-<!-- Right-aligned image using HTML inside Markdown -->
-<p align="right">
-  <img src="https://github.com/prajwalraaj/prajwalraaj/blob/main/5373c68a813d44648a01e5409888a79b.jpg?raw=true" width="150px" alt="Prajwal Mini Image" />
-</p>
 
 ## 👨‍💼 About Me
+
+<table>
+<tr>
+<td width="70%">
 
 I'm an innovative **System Engineer with 3+ years** of experience in **Enterprise Data Warehousing**, **ETL development**, and **cloud-based automation**. I specialize in designing scalable data pipelines, automating manual workflows, and enhancing system reliability through smart engineering.
 
 🔍 **Currently exploring Generative AI, Predictive Analytics, and Automation Projects**  
 💡 Passionate about building solutions that are **automated**, **intelligent**, and **impact-driven**
+
+</td>
+<td align="center" width="30%">
+  <img src="https://github.com/prajwalraaj/prajwalraaj/blob/main/5373c68a813d44648a01e5409888a79b.jpg?raw=true" width="120px" alt="Prajwal Mini Image" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -51,8 +59,8 @@ Automated Unix disk monitoring + email alerts — built for enterprise server en
 📌 [`CSV to TSV Converter`](https://github.com/prajwalraaj/CSV-to-TSV-Converter)  
 Simple Python tool for clean conversion of CSV files to TSV format.
 
-📌 [`Single page shopping website`](https://prajwalraaj.github.io/single-shopping-webpage/)
-Single page shopping wesite
+📌 [`Single page shopping website`](https://prajwalraaj.github.io/single-shopping-webpage/)  
+Single page shopping website
 
 📌 [`Bouquet Image Generator`](https://github.com/prajwalraaj/Bouquet-Birthday-Wish-Generator)  
 Uses Vertex AI + Gemini to create an image and generate birthday wishes based on it 🎉
@@ -78,10 +86,10 @@ Uses Vertex AI + Gemini to create an image and generate birthday wishes based on
 
 ## 🧠 Current Goals
 
-- Build a strong portfolio with impactful projects
-- Write blog posts on automation, AI, and data solutions
-- Start a small side business in the tech space
-- Level up in cloud certifications and architecture
+- Build a strong portfolio with impactful projects  
+- Write blog posts on automation, AI, and data solutions  
+- Start a small side business in the tech space  
+- Level up in cloud certifications and architecture  
 
 ---
 
