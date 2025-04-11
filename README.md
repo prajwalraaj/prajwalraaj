@@ -11,9 +11,9 @@
 Cybersecurity • Automation • Cloud Computing • Data Engineering
 
 ## 🚧 Projects (see pinned below 👇)
-- Auto Disk Cleanup Script (Bash/Python)
-- Space alerts Script
-- 
+- Unix Disk Space Usage Report Script
+- Auto Disk Cleanup Script (unix)
+- Single page shopping wesite
 - Report Automation Tool
 - SQL Data Extractor (MS SQL + Shell Script)
 
