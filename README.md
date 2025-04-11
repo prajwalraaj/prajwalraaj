@@ -4,6 +4,9 @@
 📍 Based in Mysore, India | 🧠 Always learning | 🚀 Building smart solutions for real-world problems
 
 ---
+<p align="center">
+  <img src="https://github.com/prajwalraaj/prajwalraaj/blob/main/5373c68a813d44648a01e5409888a79b.jpg" width="100%" alt="Prajwal Banner"/>
+</p>
 
 ## 👨‍💼 About Me
 
