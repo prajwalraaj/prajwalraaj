@@ -18,8 +18,8 @@ I'm an innovative **System Engineer with 3+ years** of experience in **Enterpris
 💡 Passionate about building solutions that are **automated**, **intelligent**, and **impact-driven**
 
 </td>
-<td align="center" width="30%">
-  <img src="https://github.com/prajwalraaj/prajwalraaj/blob/main/Profile.png?raw=true" width="120px" alt="Prajwal Mini Image" />
+<td align="center" width="20%">
+  <img src="https://github.com/prajwalraaj/prajwalraaj/blob/main/Profile.png?raw=true" width="150px" alt="Prajwal Mini Image" />
 </td>
 </tr>
 </table>
