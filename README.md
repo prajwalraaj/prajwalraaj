@@ -21,3 +21,11 @@ Cybersecurity • Automation • Cloud Computing • Data Engineering
 ## 🌱 Currently Learning
 - Microsoft Azure (AZ-104)
 - Advanced Python Scripting for Infra Management
+
+- ![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwalraaj&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalraaj&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=prajwalraaj&theme=dark&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=prajwalraaj&color=blue)
+
